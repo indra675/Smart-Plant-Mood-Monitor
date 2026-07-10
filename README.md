@@ -174,14 +174,14 @@ Built as part of the **ESSCI-certified Embedded Systems and IoT Engineering cour
 
 ---
 
-## 🙏 Acknowledgment
-
-Special thanks to my mentor, **Anil Dasaroju**, for his guidance and support throughout this project.
-
----
-
-## 👤 Author
+## 🙋 Author
 
 **Galla Indranag**
+
 B.Tech ECE, NRI Institute of Technology, Guntur
-[LinkedIn](https://linkedin.com/in/gallaindranag) | [GitHub](https://github.com/indra675)
+
+Embedded Systems & IoT Engineering (ESSCI-certified), SRM 
+
+- GitHub: [@indra675](https://github.com/indra675)
+- LinkedIn: [linkedin.com/in/gallaindranag](https://linkedin.com/in/gallaindranag)
+
